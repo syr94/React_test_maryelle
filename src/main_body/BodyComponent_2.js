@@ -14,7 +14,6 @@ import './BodyComponent_2.css'
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    flexGrow: 1,
     paddingLeft : '27%',
     paddingRight: '20%',
     paddingTop: '20px',
@@ -26,6 +25,7 @@ const useStyles = makeStyles((theme) => ({
     textAlign: 'center',
     color: theme.palette.text.secondary,
     background: '#FFEFEF',
+    padding: '20%'
   },
 }));
 
@@ -34,7 +34,7 @@ export default function AutoGrid() {
 
   return (
     <div className={classes.root}>
-      <Grid container spacing={3}>
+      <Grid container spacing={8}>
         <Grid item xs = {6}>
           <Paper className={classes.paper}>
               <img src = {Cherry} className="berry_img"></img>

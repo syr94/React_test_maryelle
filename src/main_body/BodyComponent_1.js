@@ -20,6 +20,8 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: 'space-around',
     overflow: 'hidden',
     backgroundColor: theme.palette.background.paper,
+    paddingTop: '20px',
+    paddingBottom: '20px',
   },
   gridList: {
     width: '80%',
