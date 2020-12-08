@@ -1,10 +1,11 @@
 .tail{
     height: 50px;
     width: 100%;
-    left: 0;
     background-color: #5f0038;
     display: flex;
     color: #cdf7ff;
+    position: absolute;
+    bottom: 0px;
 }
 
 .tail_left{
