@@ -18,24 +18,18 @@ p{
 .contactsMain{
     display: flex;
     flex-wrap: wrap;
-    margin-right: 10%;
-    margin-left: 10%;
-    text-align: right !important;
     align-content:stretch;
     padding: 50px;
+    justify-content: space-around;
 }
 .contacts{
     padding-top: 10px;
-    margin-left: 30%;
-    text-align: center;
+
+    text-align: right;
     width: 300px;
     height: auto;
 }
 
-.maps{
-    width: 300px;
-    height: auto;
-}
 
 
 

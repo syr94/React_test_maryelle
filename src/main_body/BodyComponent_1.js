@@ -107,7 +107,7 @@ export default function BodyComponent_1() {
         ))}
       </GridList>
       <div className="text">
-                    <p>
+                    <p className = "story">
                         Our story has started from 1859 year. And every year and every day now , we selling freshiest berries in the all of the Russia.
                         Our berries were growing with love and nature resources. So make your new day with a the best berries that you have ever take.
                     </p>

@@ -177,3 +177,12 @@
   text-shadow: 2px 2px 4px silver;
   text-align: center;
 }
+
+.story{
+  text-align: left !important;
+}
+
+.tailContacts{
+  position: absolute;
+  bottom: 0px;
+}
