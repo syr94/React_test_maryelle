@@ -133,6 +133,7 @@
 
 .MuiGridList-root{
   overflow-y: none !important;
+  overflow: hidden;
 }
 
 .text{
