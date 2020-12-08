@@ -1,0 +1,22 @@
+.makeStyles-gridList-7{
+    width: 80% !important;
+    height: auto !important;
+}
+.main_body{
+    height: auto;
+}
+
+.MuiGridList-root{
+    overflow-y: none !important;
+}
+
+.text{
+    margin-top: 20px;
+    color:  #AF4F87;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: 700;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px silver;
+    text-align: left;
+}

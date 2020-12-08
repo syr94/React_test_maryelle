@@ -1,0 +1,45 @@
+h2,h4{
+    text-shadow: 1px 1px 2px silver;
+    color:  #5f0038;
+}
+
+h4{
+    text-align: right;
+}
+p{
+    text-align: right;
+    text-shadow: 1px 1px 2px silver;
+    color:  #AF4F87;
+}
+
+.body3{
+    margin: 0% auto;
+}
+.contactsMain{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: right !important;
+    align-content:stretch;
+    padding: 50px;
+}
+.contacts{
+    padding-top: 10px;
+    margin-left: 30%;
+    text-align: center;
+    width: 300px;
+    height: auto;
+}
+
+.maps{
+    width: 300px;
+    height: auto;
+}
+
+
+
+.first{
+    margin-top: 70px;
+    
+}

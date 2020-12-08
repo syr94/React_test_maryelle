@@ -1,0 +1,20 @@
+.tail{
+    height: 50px;
+    width: 100%;
+    left: 0;
+    background-color: #5f0038;
+    display: flex;
+    color: #cdf7ff;
+}
+
+.tail_left{
+    padding-left: 30%;
+    width: 50%;
+    padding-top: 15px;
+}
+
+.tail_right{
+    padding-left: 5%;
+    width: 50%;
+    padding-top: 15px;
+}

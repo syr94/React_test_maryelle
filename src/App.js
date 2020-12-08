@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import './head/Head.css'
+import Tail from './tail/Tail'
+import HeadTop from './head/HeadTop'
+import CenteredTabs from './head/CenteredTabs';
+
+
 
 function App() {
+ 
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <HeadTop />
+        <CenteredTabs/>
+
+        <Tail />
     </div>
   );
 }
