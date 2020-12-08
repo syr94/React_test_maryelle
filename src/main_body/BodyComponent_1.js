@@ -97,7 +97,7 @@ export default function BodyComponent_1() {
 
   return (
     <div className={classes.root}>
-      <GridList cellHeight={160} className={classes.gridList} cols={2}>
+      <GridList cellHeight={160} className={classes.gridList} cols={3}>
         {TileData.map((tile) => (
           <GridListTile key={tile.img} cols={tile.cols || 1}>
             <img src={tile.img} alt={tile.title} />

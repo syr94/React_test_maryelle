@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
    // padding: theme.spacing(100),
     textAlign: 'center',
     color: theme.palette.text.secondary,
-    background: theme.palette.success.light,
+    background: '#FFEFEF',
   },
 }));
 
