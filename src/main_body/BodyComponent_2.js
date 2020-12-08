@@ -14,8 +14,6 @@ import './BodyComponent_2.css'
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    paddingLeft : '27%',
-    paddingRight: '20%',
     paddingTop: '20px',
     paddingBottom: '100px',
     textAlign: 'center',

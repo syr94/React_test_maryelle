@@ -129,6 +129,8 @@
 }
 .main_body{
   height: auto;
+  display: flex;
+  justify-content: space-around;
 }
 
 .MuiGridList-root{

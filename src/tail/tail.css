@@ -6,16 +6,11 @@
     color: #cdf7ff;
     position: fixed;
     bottom: 0px;
+    justify-content: space-around;
 }
 
-.tail_left{
-    padding-left: 30%;
-    width: 50%;
+.tail_left, .tail_right{
+
     padding-top: 15px;
 }
 
-.tail_right{
-    padding-left: 5%;
-    width: 50%;
-    padding-top: 15px;
-}
