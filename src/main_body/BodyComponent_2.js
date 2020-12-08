@@ -17,6 +17,7 @@ const useStyles = makeStyles((theme) => ({
     paddingTop: '20px',
     paddingBottom: '100px',
     textAlign: 'center',
+    width: '55%',
 
   },
   paper: {
